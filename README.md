@@ -66,7 +66,7 @@ After three months, a new histogram was created to visualize the improved distri
 
 ## Video
 
-[![Watch the video](https://img.youtube.com/vi/xH7QeJPWEj8/hqdefault.jpg)](https://www.youtube.com/watch?v=xH7QeJPWEj8) 
+[![Watch the video](https://img.youtube.com/vi/1EkTVx3xw9o/hqdefault.jpg)](https://www.youtube.com/watch?v=1EkTVx3xw9o) 
 
 ## Technologies-used
 
