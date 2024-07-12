@@ -53,7 +53,6 @@ To address these issues, the facility implemented a triage system, categorizing 
    - Critical Care Bay: For life-threatening conditions.
    - Urgent Care Bay: For serious but non-life-threatening conditions.
    - General Care Bay: For non-urgent conditions. 
-<br>
    
 2. Dedicated Teams: Each bay was staffed with medical professionals specialized in handling specific types of conditions.
 
